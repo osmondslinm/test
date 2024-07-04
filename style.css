@@ -1,0 +1,180 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.sec1{
+    background-color:rgb(4, 67, 156) ;
+    height: 70px;
+
+}
+.div1{
+    display: flex;
+ text-align: end;
+
+}
+.div1a{
+    width: 60%;
+    font-size: x-large;
+    padding-top: 15px;
+    padding-left: 10px;
+    
+    
+}
+.div1b{
+    width: 40%;
+    font-size: larger;
+    padding-top: 15px;
+    
+    
+}
+.login{
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(4, 40, 156) ;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+.register{
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(4, 40, 156) ;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+.sec2{
+   background-image: url(./images/bg2.jpg);
+   background-repeat: no-repeat;
+   background-size:100% 100%;
+
+}
+.div2{
+    display: flex;
+    color: white;
+
+}
+.div2a{
+    width: 50%;
+    padding-top: 70px;
+    padding-left: 70px;
+}
+.div2b{
+    width: 50%;
+    padding-top: 70px;
+    padding-right: 50px;
+}
+.getstarted{
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(4, 95, 156) ;
+    color: white;
+    font-size: large;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+.sec3{
+    background-image: url(./images/bg2.jpg);
+    height: 80px;
+    background-repeat: no-repeat; 
+    background-size:100% 100%;
+
+
+}
+.div3{
+    display: flex;
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+.sec4{
+    height: 650px;
+
+}
+.div4{
+    display: flex;
+    padding-top: 50px;
+
+}
+.div4a{
+    width: 50%;
+    color: rgb(17, 87, 172);
+    padding-left: 100px;
+}
+.div4b{
+    width: 50%;
+}
+.div4bb{
+    width: 70%;
+}
+.img{
+    width: 90%;
+    height: 90%;
+}
+.sec5{
+    height: 330px;
+    background: linear-gradient(to top,rgb(9, 56, 127), rgb(17, 85, 167));
+}
+.div5{
+    display: flex;
+    color: white;
+}
+.div5a{
+    width: 40%;
+    padding-top: 100px;
+    padding-left: 70px;
+}
+.div5b{
+    width: 30%;
+}
+.div5c{
+    width: 30%;
+}
+.getstarted2{
+    border-radius: 5px;
+    text-decoration: none;
+    background-color:rgb(12, 34, 134) ;
+    color: white;
+    font-size: large;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+.sec6{
+    height: 350px;
+}
+.div6{
+    display: flex;
+    background-color: white;
+   
+}
+.div6a{
+    width: 40%;
+    align-items: center;
+    padding-top: 350px;
+    padding-left: 80px;
+}
+.div6b{
+    background-color: white;
+    width: 25%;
+}
+.div6bb{
+  background-color:rgb(0,83,164);;;
+  color: white;
+  align-items: center;
+  
+   padding-left: 20px;
+   padding-top: 50px;
+
+}
+.div6c{
+    width: 35%;
+    background-color: red;
+}
